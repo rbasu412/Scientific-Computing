@@ -3,7 +3,7 @@
 // HW13
 // Problem 1
 // rb2ep_cypher.cpp
-// On my honor I have neither given or received help on this assignment
+// An example of a Vernam cypher
 //usage: cypher password input output
 
 #include<stdio.h>
